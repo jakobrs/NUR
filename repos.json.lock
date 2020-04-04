@@ -150,6 +150,11 @@
             "sha256": "1z1brkp85534wirf38ywqb0ndcaxq9dwrki950ly19d82lcm461d",
             "url": "https://github.com/Izorkin/nur-packages"
         },
+        "jakobrs": {
+            "rev": "966b023b1c0f136c2506bd2ffeb34aa1ef99bfab",
+            "sha256": "1727n2qg11vvzqz0gycv0wi64cxifaqsv0yh4crv89irry1dg88d",
+            "url": "https://github.com/jakobrs/nur-packages"
+        },
         "jd91mzm2": {
             "rev": "b79c1eeadba7ee266ad5b1d0a0328a948a7f29bb",
             "sha256": "01i43v5yng9bjxk77a2kvf0v18iln73w7hyb530p70jr8bfjz1bn",
